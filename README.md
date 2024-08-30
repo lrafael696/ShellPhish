@@ -43,7 +43,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added Requirements 
 
 <p align="center">
-<img width="47%" screenshot.png"/>
+<img width="47%" (https://github.com/Mraprguild/ShellPhish/blob/master/screenshot.png)"/>
 </p>
 
 ![Screenshot_FB](screenshot_fb.png)
