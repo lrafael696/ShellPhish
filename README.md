@@ -42,6 +42,9 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added temporary Fix (ngrok workaround)
 - Added Requirements 
 
+<p align="center">
+<img width="47%" src="src/InstallComplete.jpg"/>
+</p>
 
 ![Screenshot](screenshot.png)
 
