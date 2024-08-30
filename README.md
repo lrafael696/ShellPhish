@@ -1,4 +1,4 @@
-# ShellPhish v2.5-MOD
+# ShellPhish v2.6-MOD
 Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlayStation, GitHub, Twitch, Pinterest, Snapchat, Linkedin, Ebay, Dropbox, Protonmail, Spotify, Reddit, Adobe, DeviantArt, Badoo, Origin, CryptoCoin, Yahoo, Wordpress, Yandex, StachoverFlow & VK. This is a modified version of ShellFish, ShellPhish & Zphisher.
 
 # Requirements
@@ -8,7 +8,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - ngrok
 
 ## ChangeLog:
-- Updated to v2.5:
+- Updated to v2.6:
 	- Added 2020 New Login/Phishing Page.
 	- Added Traditional Login Page.
 	- Added Advanced Voting Poll Login Page.
@@ -49,7 +49,12 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+apt update && apt upgrade -y
+apt install git wget php unzip curl -y
+git clone https://github.com/Mraprguild/ShellPhish
+cd ShellPhish
+chmod +x *
+bash shellphish.sh
 ```
 
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
@@ -70,3 +75,20 @@ bash update.sh
 
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
+
+
+### For any kind of help, support, suggetion and request ask in my Telegram Group:
+<p align="left">
+<a href="https://t.me/mrapr8133"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+</p>
+
+## Follow on:
+<p align="left">
+<a href="https://github.com/Mraprguild"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://twitter.com/Mraprguild"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p><p align="left">
+<a href="https://www.facebook.com/mr.apr1"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+<a href="https://instagram.com/mr.apr1"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+</p>
