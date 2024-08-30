@@ -46,6 +46,10 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 <img width="47%" src="src/screenshot.png"/>
 </p>
 
+<p align="center">
+<img width="47%" src="src/screenshot_fb.png"/>
+</p>
+
 ### Usage:
 ```bash
 apt update && apt upgrade -y
