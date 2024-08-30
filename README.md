@@ -43,7 +43,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added Requirements 
 
 <p align="center">
-<img width="47%" src="src/InstallComplete.jpg"/>
+<img width="47%" screenshot.png"/>
 </p>
 
 ![Screenshot](screenshot.png)
