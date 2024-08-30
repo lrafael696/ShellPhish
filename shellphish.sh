@@ -3,7 +3,7 @@
 # ShellPhish v2.6-Mod
 # Moded by @Mraprguild
 
-# Join Telegram Group for help: http://t.me/githubmraprguild 
+# Join Telegram Group for help: http://t.me/mraprtermux
 
 
 trap 'printf "\n";stop;exit 1' 2
