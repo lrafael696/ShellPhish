@@ -46,8 +46,6 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 <img width="47%" screenshot.png"/>
 </p>
 
-![Screenshot](screenshot.png)
-
 ![Screenshot_FB](screenshot_fb.png)
 
 ### Usage:
