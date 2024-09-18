@@ -73,6 +73,20 @@ cd ShellPhish
 bash update.sh
 ```
 
+
+## Publishing to the network:
+```bash
+This can be done with any of the following services
+
+https://serveo.net/
+└─$ ssh -R 80:localhost:5555 serveo.net
+
+
+https://localhost.run/
+└─$ ssh -R 80:localhost:5555 ssh.localhost.run
+
+```
+
 ### Note:
 **This is in development. If you find any problems than please report them to my Telegram Group. To work properly in Android you have to Turn On Mobile Data and Hotspot. Without Mobile Data and Hotspot sometimes it not generates Phishing URL.**
 
